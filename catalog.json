@@ -2,6 +2,13 @@
   "categories": {
     "jeux": [],
     "logiciels": [],
-    "outils": []
+    "outils": [
+      {
+        "nom": "HomeControl",
+        "description": "Pilote tes ampoules LED (couleurs, ambiances) en Bluetooth ou par QR code, avec des raccourcis vers YouTube, Spotify, la radio et plus.",
+        "fichier": "HomeControl.apk",
+        "lien": "https://github.com/deephoodofficial-arch/homecontrol-app/releases/download/latest/HomeControl.apk"
+      }
+    ]
   }
 }
